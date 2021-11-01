@@ -637,7 +637,7 @@
   #endif
 #endif
 
-// @section homing
+// @section homing 
 
 // If you want endstops to stay on (by default) even when not homing
 // enable this option. Override at any time with M120, M121.
